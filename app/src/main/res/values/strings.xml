@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">IIIT BBS ATTENDANCE</string>
+    <string name="admin_login">Admin Login</string>
+    <string name="student_login">Student Login</string>
+    <string name="login_page">Login Here!</string>
+    <string name="hint_username">Student ID</string>
+    <string name="hint_password">Password</string>
+    <string name="link_forgot_password">Retrieve Password!</string>
+    <string name="button_login">Login</string>
+    <string name="link_sign_up">Not registered? Sign up Now!</string>
+</resources>
